@@ -5,5 +5,5 @@ The aim behind this analysis of flight price prediction is study of flight booki
 The Dataset from kaggel: https://www.kaggle.com/datasets/swatikhedekar/flight-price-prediction-eda-and-fe?resource=download
 you will see two files 
 frist is dataset has name [ flights_data.xlsx ]
-the second for jupyter notebook is named [ final project ] 
+the second for jupyter notebook is named [ final project.ipynb ] 
 the notebook consist of parts one for read ,explore the data , clean , EDA and part for machine learning model i use XGBoost regressor  
